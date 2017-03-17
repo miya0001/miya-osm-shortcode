@@ -16,12 +16,12 @@ class OSM_Shortcode
 {
 	public function __construct()
 	{
-		add_action( 'init', array( $this, 'init' ) )
+		add_action( 'init', array( $this, 'init' ) );
 	}
 
 	public function init()
 	{
-		add_shortcode( 'osm', array( $this, 'shortcode' ) )
+		add_shortcode( 'osm', array( $this, 'shortcode' ) );
 	}
 
 	public function shortcode( $atts, $contents )
