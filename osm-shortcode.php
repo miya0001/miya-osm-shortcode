@@ -1,15 +1,13 @@
 <?php
 /**
- * Plugin Name:     Osm Shortcode
- * Plugin URI:      PLUGIN SITE HERE
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
- * Text Domain:     osm-shortcode
- * Domain Path:     /languages
+ * Plugin Name:     OSM Shortcode
+ * Plugin URI:      https://github.com/miya0001/miya-osm-shortcode
+ * Description:     Open Street Map shortcode for WordPress
+ * Author:          Takayuki Miyauchi
+ * Author URI:      https://miya.io/
  * Version:         0.1.0
  *
- * @package         Osm_Shortcode
+ * @package         OSM_Shortcode
  */
 
 class OSM_Shortcode
